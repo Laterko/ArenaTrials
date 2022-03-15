@@ -1,0 +1,6 @@
+name: ArenaTrials
+version: '${project.version}'
+main: com.laterko.arenatrials.Main
+api-version: 1.18
+authors: [ Piotr ]
+description: Arena
